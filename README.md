@@ -3,3 +3,8 @@
 <p align="center">
   <a href="http://vutondesign.com/MyMIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
 </p>
+
+### Install
+```
+git clone https://github.com/vutondesign/SimplePick.git
+```
