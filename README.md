@@ -6,5 +6,5 @@
 
 ### Install
 ```
-git clone https://github.com/vutondesign/SimplePick.git
+git clone https://github.com/ktrvs/SimplePick.git
 ```
