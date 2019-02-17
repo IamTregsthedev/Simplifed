@@ -3,7 +3,7 @@
 
   "name": "SimplePick",
   "description": "A chrome extension that saves bookmark space.",
-  "version": "1.3",
+  "version": "2.0",
   "default_locale": "en",
   "author": "AravNarula/Kerr Travers",
   "icons": {
