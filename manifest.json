@@ -20,7 +20,7 @@
     "default_popup": "popup.html"
   },
 
-  "permissions": ["activeTab", "tabs", "storage"],
+  "permissions": ["activeTab", "tabs", "storage", "browser"],
 
   "background": {
     "scripts": ["js/background.js"]
