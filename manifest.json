@@ -5,7 +5,7 @@
 	"description": "A chrome extension that saves bookmark space.",
 	"version": "0.2",
 	"default_locale": "en",
-	"author": "VutonDesign / Smrman",
+	"author": "AravNarula/Kerr Travers",
 	"icons": {
 			"16":	"/img/icon16.png",
 			"32": 	"/img/icon32.png",
