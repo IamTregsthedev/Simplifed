@@ -6,6 +6,6 @@
 
 ### Install
 
-```
-https://chrome.google.com/webstore/detail/simplepick/amgkdfnjnefpomfdlcbangigijjaimij/related
-```
+ Store: https://chrome.google.com/webstore/detail/simplepick/amgkdfnjnefpomfdlcbangigijjaimij/related
+ UnPacked: 
+
