@@ -5,6 +5,7 @@
 </p>
 
 ### Install
+
 ```
 https://chrome.google.com/webstore/detail/simplepick/amgkdfnjnefpomfdlcbangigijjaimij/related
 ```
