@@ -6,6 +6,6 @@
 
 ### Install
 
-```
-https://chrome.google.com/webstore/detail/simplepick/amgkdfnjnefpomfdlcbangigijjaimij/related
-```
+ Store: https://chrome.google.com/webstore/detail/simplepick/amgkdfnjnefpomfdlcbangigijjaimij/related
+ UnPacked: Install ZIP File, and Extract into a Folder, and Load Unpacked in Chrome Extestions  <b> Dev mode </b>
+
