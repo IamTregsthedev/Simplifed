@@ -6,5 +6,5 @@
 
 ### Install
 ```
-git clone https://github.com/woodfi/SimplePick.git
+https://chrome.google.com/webstore/detail/simplepick/amgkdfnjnefpomfdlcbangigijjaimij/related
 ```
