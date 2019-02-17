@@ -23,6 +23,6 @@
   "permissions": ["activeTab", "tabs", "storage"],
 
   "background": {
-    "scripts": ["js/background.js"]
+    "scripts": ["js/background.js","index.js"]
   }
 }
