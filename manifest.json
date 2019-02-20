@@ -20,9 +20,12 @@
     "default_popup": "popup.html"
   },
 
-  "permissions": ["activeTab", "tabs", "storage"],
+  "permissions": ["activeTab", "tabs", "newtab"],
 
   "background": {
     "scripts": ["js/background.js"]
+  }
+    "chrome_url_overrides" : {
+    "pageToOverride": "newtab.html"
   }
 }
