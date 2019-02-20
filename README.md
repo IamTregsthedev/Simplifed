@@ -6,4 +6,4 @@
 <hr>
 
 
-<img src="ChromeWebStore_Badge_v2_206x58.png">
+ <a href="https://chrome.google.com/webstore/detail/amgkdfnjnefpomfdlcbangigijjaimij/publish-accepted?authuser=3"><img src="ChromeWebStore_Badge_v2_206x58.png">
