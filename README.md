@@ -9,5 +9,4 @@
 
  Store: https://chrome.google.com/webstore/detail/simplepick/amgkdfnjnefpomfdlcbangigijjaimij/related <br>
  <br>
-
-
+<img src="ChromeWebStore_Badge_v2_206x58.png">
