@@ -26,6 +26,6 @@
     "scripts": ["js/background.js"]
   }
     "chrome_url_overrides": {
-    "pageToOverride": "newtab.html"
+    "newtab": "newtab.html"
   }
 }
