@@ -1,3 +1,9 @@
 a {
   color: black;
 }
+
+
+body {
+	background:url(yo.jpeg);
+	background-size: auto;
+}
