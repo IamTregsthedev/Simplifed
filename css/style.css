@@ -4,6 +4,6 @@ a {
 
 
 body {
-	background:url(yo.jpeg.jpg);
+     background:url(../yo.jpeg.jpg);
 	background-size: auto;
 }
