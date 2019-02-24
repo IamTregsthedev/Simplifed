@@ -6,5 +6,6 @@ a {
 html {
      background:url(../yo.jpeg.jpg);
 	background-size: auto;
-	background-size: cover;
+	     background-size: cover;
+     height: 100vh;
 }
