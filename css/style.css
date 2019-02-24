@@ -3,7 +3,8 @@ a {
 }
 
 
-body {
+html {
      background:url(../yo.jpeg.jpg);
 	background-size: auto;
+	background-size: cover;
 }
