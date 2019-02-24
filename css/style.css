@@ -9,3 +9,26 @@ html {
 	     background-size: cover;
      height: 100vh;
 }
+
+.reddit {
+	color:orange;
+}
+
+.google {
+	color:white;
+}
+
+.linkden {
+	color:blue;
+	border-color:white;
+}
+
+.facebook {
+	color:blue;
+	border-color:white;
+}
+
+.twitter {
+	color:blue;
+	border-color:white;
+}
