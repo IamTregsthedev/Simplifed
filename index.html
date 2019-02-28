@@ -4,19 +4,19 @@
     <!-- Meta -->
     <meta desc="A New Tab Page for you">
     <meta charset="UTF-8" />
-    <meta keywords" content="SimplePick, Chrome, extension" />
+    <meta name="keywords" content="SimplePick, Chrome, extension" />
     <meta
-     description
+      name="description"
       content="A chrome extension that saves bookmark space."
     />
-    <meta subject" content="Chrome Extension" />
-    <meta language" content="EN" />
-    <meta robots" content="index" />
+    <meta name="subject" content="Chrome Extension" />
+    <meta name="language" content="EN" />
+    <meta name="robots" content="index" />
     <meta name="revised" content="Feb 16 2018" />
     <meta name="abstract" content="Chrome Extension SimplePick" />
-    <meta topic content="Chrome Extension SimplePick" />
+    <meta name="topic" content="Chrome Extension SimplePick" />
     <meta name="summary" content="" />
-    <meta author content="Arav Narula + Kerr Travers and Srman" />
+    <meta name="author" content="Arav Narula + Kerr Travers and Srman" />
     <meta name="designer" content="VutonDesign" />
     <meta name="owner" content="Kerr Travers + Arav Narula" />
     <meta name="url" content="hhttps://github.com/woodfi/SimplePick/" />
@@ -50,7 +50,10 @@
     <meta http-equiv="imagetoolbar" content="no" />
     <meta http-equiv="x-dns-prefetch-control" content="off" />
     <!-- CSS -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
     <link rel="stylesheet" href="https://unpkg.com/wingcss" />
     <link rel="stylesheet" href="./css/style.css" />
   </head>
@@ -58,37 +61,33 @@
     <br>
     <center>
       <img src="./img/icon.svg" />
-      <h1>Simple</h1>
+      <h1>Hello, <span id="name">user</span>.</h1>
       <a href="https://github.com" target="_blank">
-        <i class="fab fa-github fa-4x fa-fw"></i>
+        <i class="fa fa-github fa-4x fa-fw"></i>
       </a>
-      <a href="https://www.facebook.com" target="_blank" >
-        <i class="fab fa-facebook fa-4x fa-fw"></i>
+      <a href="https://www.facebook.com" target="_blank">
+        <i class="fa fa-facebook fa-4x fa-fw"></i>
       </a>
-      <a href="https://twitter.com" target="_blank" >
-        <i class="fab fa-twitter fa-4x fa-fw"></i>
+      <a href="https://twitter.com" target="_blank">
+        <i class="fa fa-twitter fa-4x fa-fw"></i>
       </a>
       <a href="https://www.instagram.com" target="_blank">
-        <i class="fab fa-instagram fa-4x fa-fw"></i>
+        <i class="fa fa-instagram fa-4x fa-fw"></i>
       </a>
       <br>
-      <a href="https://www.google.com" target="_blank" >
-        <i class="fab fa-google fa-4x fa-fw"></i>
+      <a href="https://www.linkedin.com" target="_blank">
+        <i class="fa fa-linkedin fa-4x fa-fw"></i>
       </a>
-      <a href="https://www.discordapp.com" >
-        <i class="fab fa-discord fa-4x fa-fw"></i> 
+      <a href="https://www.google.com" target="_blank">
+        <i class="fa fa-google fa-4x fa-fw"></i>
       </a>
-      <a href="https://www.reddit.com" class=> 
-        <i class="fab fa-reddit fa-4x fa-fw" ></i> </a>
+      <a href="https://www.discordapp.com">
+        <i class="fa fa-discord fa-4x fa-fw"></i> </a>
+      <br>
+      <a href="https://www.reddit.com"> 
+        <i class="fa fa-reddit fa-4x fa-fw"></i> </a>
     </center>
-    <center> <iframe src="https://duckduckgo.com/search.html?width=408&duck=yes&prefill=Search DuckDuckGo&focus=yes" style="overflow:hidden;margin:0;padding:0;width:541px;height:60px;" frameborder="0"></iframe>
-    </center>
-    <script src="https://cdn.jsdelivr.net/npm/producthunt-floating-prompt/lib/producthunt-floating-prompt.min.js"></script>
-<script>
-  FloatingPrompt({name:'Simple', url:'https://www.producthunt.com/posts/simpletab'});
-</script>
-    <footer>
-      
-    </footer>
-      </body>
+    <iframe src="https://duckduckgo.com/search.html?width=408&duck=yes&prefill=Search DuckDuckGo&focus=yes" style="overflow:hidden;margin:0;padding:0;width:541px;height:60px;" frameborder="0"></iframe>
+    <script src="./js/main.js"></script>
+  </body>
 </html>
