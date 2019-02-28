@@ -1,5 +1,5 @@
-<h1 align="center">SimplePick</h1>
-<p align="center"> A chrome extension that saves bookmark space </p>
+<h1 align="center">PrainTab</h1>
+<p align="center"> A New Tab page to get to the Places you need fast! </p>
 
 <hr>
 
