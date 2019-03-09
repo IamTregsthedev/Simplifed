@@ -23,7 +23,7 @@
   "permissions": ["activeTab", "tabs", "newtab"],
 
   "background": {
-    "scripts": ["js/background.js"]
+    "scripts": ["js/main.js"]
   },
     "chrome_url_overrides": {
     "newtab": "newtab.html"
