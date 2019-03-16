@@ -3,5 +3,5 @@
 
 <hr>
 
-Coming soon to the <b> Chrome Store </b>
+ <a href="https://chrome.google.com/webstore/detail/praintab/bmobdohpiekbifbdhimbhcefgkadaonm?authuser=1"><img src="ChromeWebStore_Badge_v2_206x58.png">
 
