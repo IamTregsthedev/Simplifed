@@ -1,5 +1,7 @@
-Beta Server coming Soon!
+**Beta Server coming soon**
+
+```We're gonna be testing test featurtes in our beta tab```
 
 <hr>
 
-**Signup Soon**
+***THIS IS A PUBILC BETA, and Is Exprimental***
