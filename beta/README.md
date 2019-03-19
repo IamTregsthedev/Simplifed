@@ -1,7 +1,13 @@
-**Beta Server coming soon**
-
-```We're gonna be testing test featurtes in our beta tab```
+**HEY, you found our beta Server :)!***
 
 <hr>
 
-***THIS IS A PUBILC BETA, and Is Exprimental***
+You don't need to signup,It's free and not closed!
+
+<br>
+
+Just Add
+
+<ul> /time </ul>
+
+***MORE BETA SERVERS COMING SOON***
