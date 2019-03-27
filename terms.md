@@ -1,0 +1,11 @@
+<h1 align="center> Thesse are The Terms for PrainTab! </h1>
+<br>
+<hr>
+
+<p> All users are treated the same, with the no tracking rule. We do not Track our users in any way, or Use Targted ads on our website. <br>
+In no way, Do I/Us/We Profit with this website, in any form of money/E-money. We Are Open-source and are trying to make the web safer with using the duck side! <br>
+You can check out Duck.com Policy <a href="https://duckduckgo.com/privacy"> Here! </a> <br> IN any way are we in repsonse/Responsibilty fot anything you see on the Site Buttons! <p>
+
+<hr>
+
+<p> If you prefer Startpage.com, The Website that takes google search results and not track you, <a href="simpletab.cf/beta/startpage"> Is For you. </a> We're still making out startpage site, so bare with us in the meantime </p>
