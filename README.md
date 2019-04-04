@@ -5,5 +5,5 @@
 
  <a href="https://chrome.google.com/webstore/detail/praintab/bmobdohpiekbifbdhimbhcefgkadaonm?authuser=1"><img src="ChromeWebStore_Badge_v2_206x58.png">
  <br>
- [![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](https://chrome.google.com/webstore/detail/kutt/pklakpjfiegjacoppcodencchehlfnpd) |
+ [![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](ttps://chrome.google.com/webstore/detail/praintab/bmobdohpiekbifbdhimbhcefgkadaonm) 
 
