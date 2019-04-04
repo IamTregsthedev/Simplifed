@@ -1,19 +1,16 @@
 {
   "manifest_version": 2,
 
-  "name": "Praintab",
-  "description": "A chrome extension that saves bookmark space.",
+  "name": "Simplifed",
+  "description": "A Tracking free, Fast chrome extesion to get to the links you need fast!.",
   "version": "0.0.1",
   "default_locale": "en",
   "author": "AravNarula/Sean",
-  "icons": {
-    "16": "/img/s-note.png",
-    
-  },
+
 
   "browser_action": {
-    "default_icon": "/img/icon64.png",
-    "default_title": "PrainTab - A chrome extension that saves bookmark space.",
+    "default_icon": "/img/s-note.png",
+    "default_title": "Simplifed - A chrome extension that saves bookmark space.",
     "default_popup": "popup.html"
   },
 
