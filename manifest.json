@@ -7,11 +7,8 @@
   "default_locale": "en",
   "author": "AravNarula/Sean",
   "icons": {
-    "16": "/img/icon16.png",
-    "32": "/img/icon32.png",
-    "48": "/img/icon48.png",
-    "64": "/img/icon64.png",
-    "128": "/img/icon128.png"
+    "16": "/img/s-note.png",
+    
   },
 
   "browser_action": {
