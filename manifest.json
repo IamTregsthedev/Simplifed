@@ -3,15 +3,15 @@
 
   "name": "Simplifed",
   "description": "A Tracking free, Fast chrome extesion to get to the links you need fast!.",
-  "version": "1.02",
+  "version": "1.03",
   "default_locale": "en",
-  "author": "AravNarula/Sean",
+  "author": "Arav Narula",
 
 
   "browser_action": {
     "default_icon": "/img/s-note.png",
     "default_title": "Simplifed - A chrome extension that saves bookmark space.",
-    "default_popup": "popup.html"
+    
   },
 
   "permissions": ["activeTab", "tabs", "newtab"],
