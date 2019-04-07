@@ -12,7 +12,7 @@
     "default_icon": "/img/s-note.png",
     "default_title": "Simplifed - A chrome extension that saves bookmark space.",
     
-  }
+  },
 
   "permissions": ["activeTab", "tabs", "newtab"],
 
