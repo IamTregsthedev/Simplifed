@@ -1,5 +1,7 @@
 html {
-     background:url(../yo.jpeg.jpg);
+     background:url(pinksky.jpeg
+     
+     );
 	background-size: auto;
 	     background-size: cover;
      height: 100vh;
@@ -48,4 +50,8 @@ footer {
 
 a.l {
 	color:white;
+}
+
+a:visited {
+	color:purple
 }
