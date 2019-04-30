@@ -52,6 +52,6 @@ a.l {
 	color:white;
 }
 
-a:visited {
-	color:purple
+a:hover {
+	color:gray;
 }
